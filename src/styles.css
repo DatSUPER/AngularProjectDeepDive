@@ -219,7 +219,7 @@ button:hover {
 }
 
 button:hover .icon {
-  transform: translateX(4px);
+  transform: translateX(5px);
 }
 
 #tickets {
